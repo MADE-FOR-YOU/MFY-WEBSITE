@@ -14,7 +14,7 @@ export const translations: TranslationStrings = {
   // Hero
   hero_title: { en: 'MADE FOR YOU', fr: 'MADE FOR YOU' },
   hero_subtitle: { en: 'Promoting young entrepreneurship and creativity.', fr: 'Promouvoir l\'entrepreneuriat et la créativité.' },
-  hero_description: { en: 'Our goal is to create a collaborative space for young entrepreneurs to share expertise and develo their projects.', fr: 'Notre but est de créer un espace de collaboration et de partager d\'expertise pour les jeunes entrepreneurs, afin de les aider à développer leurs projets et à les concrétiser.' },
+  hero_description: { en: 'Our goal is to create a collaborative space for young entrepreneurs to share expertise and develop their projects.', fr: 'Notre but est de créer un espace de collaboration et de partage d\'expertise pour les jeunes entrepreneurs, afin de les aider à développer leurs projets et à les concrétiser.' },
   hero_cta_program: { en: 'See the Full Program', fr: 'Voir le Programme' },
   hero_cta_speakers: { en: 'Explore Speakers', fr: 'Explorer les Intervenants' },
   countdown_days: { en: 'Days', fr: 'Jours' },

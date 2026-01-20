@@ -40,7 +40,7 @@ export const speakers: Speaker[] = [
       fr: 'Formateur / Éducateur'
     },
     bio: { 
-      en: 'Franck is responsible for designing and delivering training programs about the project to stakeholders and participants.',
+      en: 'Franck is responsible for designing and delivering training programs for the project\'s stakeholders and participants.',
       fr: 'Franck a pour but de concevoir et dispenser des formations sur le projet aux parties prenantes et aux participants.'
     },
     image: Franck
@@ -53,7 +53,7 @@ export const speakers: Speaker[] = [
       fr: 'Responsable Marketing et management'
     },
     bio: { 
-      en: 'Myriam is responsible for managing the marketing and management of the company. She shares and makes public the different videos and images. She enters into communication with other young entrepreneurs and seeks the maximum sponsors.',
+      en: 'Myriam oversees the company\'s marketing and management activities. She manages and publishes video and visual content, communicates with other young entrepreneurs and actively seeks sponsorship opportunities.',
       fr: 'Myriam est responsable de la gestion du marketing et du management de l\'entreprise. Elle partage et  fait la publicité des différentes videos et images. Elle entre en communication avec d\'autres jeunes entrepreneurs et cherche le maximum de sponsors.'
     },
     image: Myriam
